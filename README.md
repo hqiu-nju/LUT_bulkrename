@@ -1,2 +1,2 @@
 # LUT_bulkrename
-A script to rename LUT files for CaptureOne
+A script to bulk rename rename LUT files for CaptureOne
