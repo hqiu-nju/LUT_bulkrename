@@ -9,6 +9,8 @@ A script to bulk rename rename LUT files for CaptureOne
 
 you can adjust the suffix with -s, default is .icc and .icm 
 
+you can also operate in another directory with the option -f to change the folder
+
 number of layers of subdirectories can also be adjusted ("-l 0 1 2 3" or "--layers 0 1 2 3"), default is 0-3
 
 
